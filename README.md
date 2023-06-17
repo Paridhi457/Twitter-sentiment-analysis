@@ -21,6 +21,7 @@ transformers: A Python library by Hugging Face that provides state-of-the-art NL
 scipy: A scientific computing library for Python, used here for the softmax function.
 
 Acknowledgments
+
 The RoBERTa model used in this project was developed by the researchers at Cardiff University. You can find more details about the model at https://cardiffnlp.github.io/twitter-roberta-base-sentiment/.
 
 The sentiment analysis code utilizes the Hugging Face Transformers library, which provides powerful tools for working with transformer-based models. You can learn more about the library at https://huggingface.co/transformers/.
