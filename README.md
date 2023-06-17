@@ -1,8 +1,6 @@
 # Twitter Sentiment Analysis with RoBERTa
 This project performs sentiment analysis on Twitter data using the RoBERTa model. It classifies tweets into three categories: Negative, Neutral, and Positive. The sentiment analysis is based on the cardiffnlp/twitter-roberta-base-sentiment model from Hugging Face.
 
-This project performs sentiment analysis on Twitter data using the RoBERTa model. It classifies tweets into three categories: Negative, Neutral, and Positive. The sentiment analysis is based on the cardiffnlp/twitter-roberta-base-sentiment model from Hugging Face.
-
 Overview
 
 Twitter sentiment analysis is a popular task in natural language processing (NLP) and data science. It involves determining the sentiment or emotional tone of a tweet, which can provide valuable insights for various applications, such as brand monitoring, market analysis, and public opinion tracking.
